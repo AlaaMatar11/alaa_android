@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements SensorEventListener {
     SensorManager sensorManager;
-// hii8lkiujyhgbfv
+// branch Alaa
     Sensor s;
     TextView textView;
     TextView textViewAxis;
